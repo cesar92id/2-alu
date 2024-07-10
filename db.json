@@ -1,0 +1,16 @@
+{
+  "productos": [
+    {
+      "id": "3816",
+      "nombre": "Nintendo switch",
+      "precio": "500 USD",
+      "imagen": "https://assets.nintendo.com/image/upload/f_auto/q_auto/c_fill,w_700/ncom/en_US/switch/system/three-modes-in-one"
+    },
+    {
+      "id": "06a5",
+      "nombre": "Xbox Series S",
+      "precio": "350 USD",
+      "imagen": "https://dojiw2m9tvv09.cloudfront.net/49938/product/X_xbox-series-s-512gb-blanco6818.jpg?70&time=1720644535"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "desafio2",
+  "version": "1.0.0",
+  "description": "Desafio 2 alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Quintana",
+  "license": "ISC",
+  "dependencies": {
+    "json-serve": "^0.1.0"
+  }
+}
